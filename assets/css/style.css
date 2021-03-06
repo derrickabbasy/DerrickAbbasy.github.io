@@ -847,7 +847,10 @@ blockquote {
 }
 
 /* Margin and padding resets */
-.mb-0 {margin-bottom: 0px!important;}
+.mb-0 {
+	margin-bottom: 0px!important;
+	text-align: justify;
+}
 .mb-10 {margin-bottom: 10px;}
 .mb-30 {margin-bottom: 30px!important;}
 .mb-50 {margin-bottom: 50px!important;}
@@ -2013,9 +2016,6 @@ a.post-title:hover,
   margin-bottom: 0;
 }
 
-p .mb-0{
-  text-align: justfiy;
-}
 
 .copyright .yellow-text:hover {
   color: #ffd500;
