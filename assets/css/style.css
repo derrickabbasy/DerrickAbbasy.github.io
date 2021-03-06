@@ -1,43 +1,9 @@
 /*
 * Theme Name: BusinessPerfect
-* Theme URI: derrickabbasy.com/freebies/businessperfect
 * Author: Derrick Abbasy
 
 * Version: 1.0
-* */
 
-/* TABLE OF CONTENT 
-*
-* - CUSTOM RESETS
-    - Buttons
-    - Forms
-* - ELEMENTS
-    - Tabs
-    - Accordion
-    - Slick Slider
-* - LAYOUT
-* - HEADER 
-    - Site Logo
-    - Navigation
-* - HERO (BANNER)
-* - HOMEPAGE SECTIONS
-    - Quote 
-    - Featured Works
-    - Service 
-    - Counter 
-    - Team 
-    - Clients 
-    - Social networks 
-* - PAGES
-    - ABOUT-US
-    - PORTFOLIO
-    - PORTFOLIO ITEM
-    - BLOG
-    - BLOG POST
-    - CONTACT
-* - FOOTER
-*
-*/
 
 /* CUSTOM RESETS
 ================================================== */
@@ -2045,6 +2011,10 @@ a.post-title:hover,
 .copyright p {
   padding: 25px 0;
   margin-bottom: 0;
+}
+
+p .mb-0{
+  text-align: justfiy;
 }
 
 .copyright .yellow-text:hover {
